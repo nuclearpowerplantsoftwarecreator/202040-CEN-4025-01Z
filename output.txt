@@ -1,0 +1,611 @@
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 1
+No current employees configured.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 2
+Adding new employee.
+
+Enter a first name (no spaces): Jose
+Enter a last name (no spaces): Bravo
+Enter the start hour of the shift (0-23):0
+Enter the start minute of the shift (0-59):0
+NOTE: The end time cannot be prior to the start time of the shift
+Enter the ending hour of the shift (0-23):8
+Enter the start minute of the shift (0-59):0
+Employee added.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 3
+Current listed employee information:
+
+Employee #           Employee Name        Shift Start HR       Shift Start MN       Shift End HR         Shift End HR         
+1                    Jose Bravo           0                    0                    8                    0                    
+Press enter an employee ID to modify: 1
+Modifying the following employee entry:
+
+Employee #           Employee Name        Shift Start HR       Shift Start MN       Shift End HR         Shift End HR         
+1                    Jose Bravo           0                    0                    8                    0                    
+
+Enter a first name (no spaces): Eddie
+Enter a last name (no spaces): Bravo
+Enter the start hour of the shift (0-23):1
+Enter the start minute of the shift (0-59):0
+NOTE: The end time cannot be prior to the start time of the shift
+Enter the ending hour of the shift (1-23):9
+Enter the start minute of the shift (0-59):30
+Employee modified.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 1
+Current listed employee information:
+
+Employee #           Employee Name        Shift Start HR       Shift Start MN       Shift End HR         Shift End HR         
+1                    Eddie Bravo          1                    0                    9                    30                   
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 2
+Adding new employee.
+
+Enter a first name (no spaces): Jose
+Enter a last name (no spaces): Bravo
+Enter the start hour of the shift (0-23):10
+Enter the start minute of the shift (0-59):0
+NOTE: The end time cannot be prior to the start time of the shift
+Enter the ending hour of the shift (10-23):18
+Enter the start minute of the shift (0-59):0
+Employee added.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 1
+Current listed employee information:
+
+Employee #           Employee Name        Shift Start HR       Shift Start MN       Shift End HR         Shift End HR         
+1                    Eddie Bravo          1                    0                    9                    30                   
+2                    Jose Bravo           10                   0                    18                   0                    
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 4
+Employee #           Employee Name        Shift Start HR       Shift Start MN       Shift End HR         Shift End HR         
+1                    Eddie Bravo          1                    0                    9                    30                   
+2                    Jose Bravo           10                   0                    18                   0                    
+Enter an employee ID to remove: 1
+Employee deleted.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 1
+Current listed employee information:
+
+Employee #           Employee Name        Shift Start HR       Shift Start MN       Shift End HR         Shift End HR         
+1                    Jose Bravo           10                   0                    18                   0                    
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 5
+No current tasks configured.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 6
+Adding new task.
+
+List of areas:
+Area #                   Area Description        
+1                        Expedition Africa       
+2                        Flamigo Cafe            
+3                        Wild Florida            
+4                        La Selva Rainforest     
+5                        Paws On                 
+6                        Bonsai Exhibit          
+
+Select an area number: 2
+List of task types:
+Task Type #              Task Type Description   
+1                        Food / Feeding          
+2                        Groundskeeping          
+3                        Trash Removal           
+4                        General Maintenance     
+Select an task type number: 3
+Enter the start hour of the task (0-23):8
+Enter the start minute of the task (0-59):0
+NOTE: Task duration cannot run passed 23:59.
+Enter the task duration: 60
+Task added.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 5
+Current listed task information:
+
+Task ID                  Task Zone                Task Type                Task Hour                Task Min                 Task Duration (mins)     Assigned Employee ID     Task Start Hour          Task Start Minute        Task End Hour            Task End Minute          
+1                        Flamigo Cafe             Trash Removal            8                        0                        60                       -----                    -----                    -----                    -----                    -----                    
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 6
+Adding new task.
+
+List of areas:
+Area #                   Area Description        
+1                        Expedition Africa       
+2                        Flamigo Cafe            
+3                        Wild Florida            
+4                        La Selva Rainforest     
+5                        Paws On                 
+6                        Bonsai Exhibit          
+
+Select an area number: 1
+List of task types:
+Task Type #              Task Type Description   
+1                        Food / Feeding          
+2                        Groundskeeping          
+3                        Trash Removal           
+4                        General Maintenance     
+Select an task type number: 1
+Enter the start hour of the task (0-23):10
+Enter the start minute of the task (0-59):30
+NOTE: Task duration cannot run passed 23:59.
+Enter the task duration: 0
+Task added.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 5
+Current listed task information:
+
+Task ID                  Task Zone                Task Type                Task Hour                Task Min                 Task Duration (mins)     Assigned Employee ID     Task Start Hour          Task Start Minute        Task End Hour            Task End Minute          
+1                        Flamigo Cafe             Trash Removal            8                        0                        60                       -----                    -----                    -----                    -----                    -----                    
+2                        Expedition Africa        Food / Feeding           10                       30                       0                        -----                    -----                    -----                    -----                    -----                    
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 7
+Current listed task information:
+
+Task ID                  Task Zone                Task Type                Task Hour                Task Min                 Task Duration (mins)     Assigned Employee ID     Task Start Hour          Task Start Minute        Task End Hour            Task End Minute          
+1                        Flamigo Cafe             Trash Removal            8                        0                        60                       -----                    -----                    -----                    -----                    -----                    
+2                        Expedition Africa        Food / Feeding           10                       30                       0                        -----                    -----                    -----                    -----                    -----                    
+
+Enter a task # to modify: 1
+Modifying task.
+
+Selected task:
+Task ID                  Task Zone                Task Type                Task Hour                Task Min                 Task Duration (mins)     Assigned Employee ID     Task Start Hour          Task Start Minute        Task End Hour            Task End Minute          
+1                        Flamigo Cafe             Trash Removal            8                        0                        60                       -----                    -----                    -----                    -----                    -----                    
+
+List of areas:
+Area #                   Area Description        
+1                        Expedition Africa       
+2                        Flamigo Cafe            
+3                        Wild Florida            
+4                        La Selva Rainforest     
+5                        Paws On                 
+6                        Bonsai Exhibit          
+
+Select an area number: 4
+List of task types:
+Task Type #              Task Type Description   
+1                        Food / Feeding          
+2                        Groundskeeping          
+3                        Trash Removal           
+4                        General Maintenance     
+Select an task type number: 4
+Enter the start hour of the task (0-23):0
+Enter the start minute of the task (0-59):0
+NOTE: Task duration cannot run passed 23:59.
+Enter the task duration: 30
+Task modified.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 5
+Current listed task information:
+
+Task ID                  Task Zone                Task Type                Task Hour                Task Min                 Task Duration (mins)     Assigned Employee ID     Task Start Hour          Task Start Minute        Task End Hour            Task End Minute          
+1                        Flamigo Cafe             Trash Removal            8                        0                        60                       -----                    -----                    -----                    -----                    -----                    
+2                        Expedition Africa        Food / Feeding           10                       30                       0                        -----                    -----                    -----                    -----                    -----                    
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 8
+Current listed task information:
+
+Task ID                  Task Zone                Task Type                Task Hour                Task Min                 Task Duration (mins)     Assigned Employee ID     Task Start Hour          Task Start Minute        Task End Hour            Task End Minute          
+1                        Flamigo Cafe             Trash Removal            8                        0                        60                       -----                    -----                    -----                    -----                    -----                    
+2                        Expedition Africa        Food / Feeding           10                       30                       0                        -----                    -----                    -----                    -----                    -----                    
+
+Enter a task # to delete: 1
+Task deleted.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 5
+Current listed task information:
+
+Task ID                  Task Zone                Task Type                Task Hour                Task Min                 Task Duration (mins)     Assigned Employee ID     Task Start Hour          Task Start Minute        Task End Hour            Task End Minute          
+1                        Expedition Africa        Food / Feeding           10                       30                       0                        -----                    -----                    -----                    -----                    -----                    
+2                        Expedition Africa        Food / Feeding           10                       30                       0                        -----                    -----                    -----                    -----                    -----                    
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 9
+To be added at a future time.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 10
+To be added at a future time.
+Press enter to continue.
+
+*****************************
+********** WELCOME **********
+** Please make a selection **
+*****************************
+
+1:  List all employees
+2:  Add an employee
+3:  Modify an existing employee
+4.  Delete an existing employee
+5.  List all tasks
+6.  Add a task
+7.  Modify an existing task
+8.  Delete an existing task
+9.  Check out a task
+10. Check in a task
+
+0:  Exit program
+
+*****************************
+Enter a selection: 0
+Exiting. Thank you for using the ZIS software.
+Press enter to continue.
+
